@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Žemėlapis</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="lauzaviete">Laužavietė</string>
+    <string name="saltinis">Šaltinis</string>
+    <string name="baldai">Lauko baldai</string>
+    <string name="stovyklaviete">Stovyklavietė</string>
+    <string name="title_activity_add_details">addDetails</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragmentle</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="pref_file">com.example.preference_file</string>
+    <string name="pref_login_status">com.example.preference_login_status</string>
+    <string name="pref_user_name">com.example.preference_user_name</string>
+
+
+
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

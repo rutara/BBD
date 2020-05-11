@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="lauzavietes">#E55812</color>
+    <color name="stovyklavietes">#95C623</color>
+    <color name="vanduo">#0E4749</color>
+    <color name="stalai">#EFE7DA</color>
+
+    <color name="vanduo_du">#109B9B</color>
+
+    <color name="lauzavietes_du">#EDC545</color>
+    <color name="stovyklavietes_du">#0C7A21</color>
+    <color name="vanduo_trys">#48EAF7</color>
+    <color name="stalai_du">#7C6E63</color>
+</resources>

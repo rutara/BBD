@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/lauzaviete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/lauzavietes"
+        android:text="+ Laužavietė"
+        android:textColor="@color/lauzavietes_du"
+        android:textSize="10sp"
+       />
+
+    <Button
+        android:id="@+id/saltinis"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/vanduo"
+        android:text="+ Šaltinis"
+        android:textColor="@color/vanduo_trys"
+        android:textSize="10sp"
+
+        />
+
+    <Button
+        android:id="@+id/stovyklaviete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/stovyklavietes"
+        android:text="+ Stovyklavietė"
+        android:textColor="@color/stovyklavietes_du"
+        android:textSize="10sp"
+        />
+    <Button
+        android:id="@+id/stalai"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/stalai"
+        android:text="+ Lauko baldai"
+        android:textColor="@color/stalai_du"
+        android:textSize="10sp"
+        />
+</LinearLayout>
